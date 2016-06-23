@@ -1,2 +1,4 @@
 # TestGitHub
-GitHub tutorial
+************
+
+TestGitHub is a repository for showing the basic minimums of github etc..
